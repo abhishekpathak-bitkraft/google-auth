@@ -1,0 +1,18 @@
+#container div {
+    border: 2px solid blue !important ;
+    background-color: red !important ;
+}
+#credential_picker_container{
+    color: red !important;
+}
+#googleidentityservice_button_styles{
+    color: yellow !important;
+}
+
+#button-label{
+    color: violet !important;
+}
+
+#apple span {
+    background-color: "red";
+}
